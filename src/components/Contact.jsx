@@ -99,8 +99,10 @@ const Contact = () => {
               className="space-y-6"
             >
               {/* Disable captcha and redirect after submit */}
-              <input type="hidden" name="_captcha" value="false" />
-              <input type="hidden" name="_next" value="/" />
+<input type="hidden" name="_subject" value="New Portfolio Contact Message" />
+                <input type="hidden" name="_captcha" value="false" />
+                <input type="hidden" name="_template" value="table" />
+                <input type="hidden" name="_next" value="/" />
 
               <div>
                 <label htmlFor="name" className="block text-sm font-medium text-gray-400 mb-2">
