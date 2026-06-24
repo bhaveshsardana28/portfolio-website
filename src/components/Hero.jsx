@@ -75,7 +75,7 @@ const Hero = () => {
               View Projects
             </a>
             <a
-              href="/resume.pdf"
+              href="/Bhavesh_Sardana_Resume.pdf"
               className="px-8 py-4 border border-white/20 rounded-full font-semibold text-white hover:bg-white/5 transition-all duration-300 flex items-center justify-center gap-2 hover:scale-105"
             >
               <FaDownload className="w-4 h-4" />
@@ -97,7 +97,7 @@ const Hero = () => {
             className="flex justify-center gap-6"
           >
             <a
-              href="https://github.com/bhaveshsardana"
+              href="https://github.com/bhaveshsardana28"
               target="_blank"
               rel="noopener noreferrer"
               className="w-12 h-12 rounded-full border border-white/10 bg-white/5 flex items-center justify-center hover:bg-white/10 transition-all duration-300 hover:scale-110"
